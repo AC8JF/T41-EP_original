@@ -1,2 +1,3 @@
 # T41-EP_original
-T41 amateur SDR transceiver source code and documentation as released by W8TEE and AC8JY
+T41 amateur SDR transceiver source code and documentation as released by W8TEE and AC8JY.
+Intended to store the original authors' material; not intended for further development.
